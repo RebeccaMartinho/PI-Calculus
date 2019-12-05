@@ -1,3 +1,3 @@
 # PI-Calculus
-Algoritmo para calculo de PI com programção paralela baseado no método de Leibniz
+Algoritmo para calculo de PI com programação paralela baseado no método de Leibniz
 
