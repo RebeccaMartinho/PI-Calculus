@@ -1,2 +1,3 @@
 # PI-Calculus
-Algoritmo de cálculo de tempo para ser rodado apenas em distribuições linux
+Algoritmo para calculo de PI com programção paralela baseado no método de Leibniz
+
